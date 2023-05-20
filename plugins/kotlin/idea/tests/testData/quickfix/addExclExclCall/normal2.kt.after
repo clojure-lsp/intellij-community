@@ -1,6 +1,0 @@
-// "Add non-null asserted (!!) call" "true"
-// WITH_STDLIB
-
-fun foo(a: String?) {
-    a!!.toLowerCase()
-}

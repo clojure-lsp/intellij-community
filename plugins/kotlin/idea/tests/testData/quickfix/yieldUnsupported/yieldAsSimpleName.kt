@@ -1,8 +1,0 @@
-// "Migrate unsupported yield syntax" "true"
-// LANGUAGE_VERSION: 1.6
-
-object yield {}
-
-fun test() {
-    val foo = yie<caret>ld
-}

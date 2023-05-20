@@ -1,2 +1,0 @@
-Refactoring cannot be performed
-Cannot modify 'Pair(A, B): Pair<A, B> of kotlin.Pair' declaration from 'Pair.class' file

@@ -1,2 +1,0 @@
-Refactoring cannot be performed
-Cannot modify 'equals(Any?): Boolean of kotlin.Any' declaration from 'kotlin.kotlin_builtins' file

@@ -1,7 +1,0 @@
-// "Convert expression to 'Short'" "true"
-
-fun takeShort(x: Short) {}
-
-fun foo() {
-    takeShort(1 + 1<caret>)
-}

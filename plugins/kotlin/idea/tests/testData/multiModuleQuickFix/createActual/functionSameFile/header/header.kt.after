@@ -1,5 +1,0 @@
-// "Add missing actual declarations" "true"
-
-expect fun bar()
-
-expect fun foo(arg: Int): String

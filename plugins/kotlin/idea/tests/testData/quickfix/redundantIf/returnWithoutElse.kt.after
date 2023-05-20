@@ -1,4 +1,0 @@
-// "Remove redundant 'if' statement" "true"
-fun foo(bar: Int?): Boolean {
-    return bar != null
-}

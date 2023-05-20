@@ -1,7 +1,0 @@
-// "Add annotation target" "true"
-
-@Target(AnnotationTarget.CLASS, AnnotationTarget.PROPERTY)
-actual annotation class Ann actual constructor()
-
-@Ann<caret>
-val jvmProperty = 42

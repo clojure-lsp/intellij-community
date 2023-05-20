@@ -1,8 +1,0 @@
-// "Make 'protectedMethod' public" "true"
-open class Foo {
-    fun protectedMethod() {}
-
-    inline fun inlineFun() {
-        protectedMethod()
-    }
-}

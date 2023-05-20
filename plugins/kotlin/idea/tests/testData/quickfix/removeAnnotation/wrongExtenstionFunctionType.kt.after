@@ -1,4 +1,0 @@
-// "Remove inapplicable @ExtensionFunctionType annotation" "true"
-// IGNORE_FIR
-// WITH_STDLIB
-fun bar(f: () -> Int): Int = TODO()

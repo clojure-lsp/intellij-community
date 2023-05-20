@@ -1,3 +1,0 @@
-// "Add missing actual declarations" "true"
-
-expect inline class InlineMe(val x: Int)

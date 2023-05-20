@@ -1,3 +1,0 @@
-// "Add missing actual declarations" "true"
-
-expect value class IC(val i: Int)

@@ -1,8 +1,0 @@
-// FIR_IDENTICAL
-// ALLOW_ERRORS
-// HIGHLIGHTER_ATTRIBUTES_KEY
-
-fun main() {
-    AAA()
-}
-

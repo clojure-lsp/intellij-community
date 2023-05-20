@@ -1,6 +1,0 @@
-{
-  "type": "KOTLIN_CLASS",
-  "classId": "/Foo.Foo",
-  "newName": "Bar",
-  "mainFile": "toBeRenamed.kt"
-}

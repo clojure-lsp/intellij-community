@@ -1,5 +1,0 @@
-// "Remove @JvmOverloads annotation" "true"
-// IGNORE_FIR
-// WITH_STDLIB
-
-annotation class A constructor(val x: Int = 1)

@@ -1,2 +1,0 @@
-// "Inline type parameter" "true"
-fun test(p: String, q: String) = p.length + q.length

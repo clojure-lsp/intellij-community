@@ -1,4 +1,0 @@
-// "Add '@JvmInline' annotation" "true"
-// WITH_STDLIB
-@JvmInline
-value class VC(val i: Int)
